@@ -11,3 +11,4 @@ spring:
           password: 720027abc
 server:
   port: 7001
+test-value: 123
